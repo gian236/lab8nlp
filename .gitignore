@@ -1,0 +1,11 @@
+data/
+models/*.bin
+models/*.vec
+models/*.txt
+outputs/*.png
+outputs/*.csv
+outputs/*.json
+__pycache__/
+.ipynb_checkpoints/
+*.log
+models/
