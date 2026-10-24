@@ -8,3 +8,4 @@ torch==2.5.1
 nltk==3.9.1
 jupyterlab==4.2.5
 ipykernel==6.29.5
+pypdf==5.9.0
